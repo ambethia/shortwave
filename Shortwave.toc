@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Shortwave
+## Author: Jason L Perry
+## Version: 1.0
+## Notes: Broadcasts your achievement gains to your Battle.net friends
+
+Shortwave.lua
