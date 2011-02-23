@@ -1,2 +1,4 @@
 package-as: Shortwave
 license-output: LICENSE.txt
+ignore:
+    - screenshot.png
